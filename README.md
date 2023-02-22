@@ -3,7 +3,7 @@ Your project's description...
 
 ## Environments
 - Preview: https://main--my-franklin-website--oeftimie.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Live: https://main--my-franklin-website--oeftimie.hlx.live/
 
 ## Installation
 
